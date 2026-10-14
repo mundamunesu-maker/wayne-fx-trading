@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mundamunesu-maker.github.io/wayne-fx-trading/sitemap.xml
